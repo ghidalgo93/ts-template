@@ -1,0 +1,19 @@
+{
+  "name": "ts-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Gerardo Hidalgo-Cuellar",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.5.0",
+    "jest": "^28.1.0",
+    "ts-jest": "^28.0.2"
+  }
+}
